@@ -1,0 +1,6 @@
+name: 'Auto Increment Tag'
+description: 'Automatically create initial tag or increment existing tag'
+inputs: {}
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
